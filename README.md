@@ -1,5 +1,5 @@
-# MSc_alzheimer
+### MSc_alzheimer
 
-#### 'Formatting scripts' contain the scripts for the initial preprocessing of each of the datasets.
+``formatting_scripts`` contain the scripts for the initial preprocessing of each of the datasets.
 
-#### 'Analysis scripts' contain a workflow with all additional analysis (LDSC and GSMR). 
+``analysis_script`` contain a workflow with all additional analysis (LDSC and GSMR). 
