@@ -1,6 +1,4 @@
 # VARIABLES:
-
-
 all_traits = ["alzheimer", "asthma", "bmi", "depression", "education", "epilepsy", "hdl", "height", "hypertension", "ibs", "ldl", "migraine", "sleep", "smoke", "t2d", "vita_d"]
 
 some_traits = ["asthma", "bmi", "depression", "education", "epilepsy", "hdl", "height", "hypertension", "ibs", "ldl", "migraine", "sleep", "smoke", "t2d", "vita_d"]
