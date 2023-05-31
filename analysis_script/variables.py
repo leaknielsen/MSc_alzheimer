@@ -27,12 +27,4 @@ gsmr_txt = "~/alzheimersproject/gsmr_txt"
 
 gsmr_results = "~/alzheimersproject/gsmr_results"
 
-gsmr_ld_01_results = "~/alzheimersproject/gsmr_ld_01_results"
-
-gsmr_ld_02_results = "~/alzheimersproject/gsmr_ld_02_results"
-
-gsmr_freq_03_results = "~/alzheimersproject/gsmr_freq_03_results"
-
 gcta_package = "~/alzheimersproject/1_raw_data/gcta-1.94.1-linux-kernel-3-x86_64"
-
-dummy = "~/alzheimersproject/dummy"
